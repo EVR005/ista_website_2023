@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c717e443.css",
+    "main.js": "/static/js/main.e0960c3d.js",
+    "static/media/3.jpg": "/static/media/3.a4d7eeb310f37114b8ee.jpg",
+    "static/media/6.jpg": "/static/media/6.e5220cc6c9cec1c1adca.jpg",
+    "static/media/4.jpg": "/static/media/4.845297f8da7f6ae77b89.jpg",
+    "static/media/7.jpg": "/static/media/7.18487b2f5fa3bdcd6288.jpg",
+    "static/media/5.jpg": "/static/media/5.1ab4fd0750dc7c0329b3.jpg",
+    "static/media/Indian_Express_Logo_full.png": "/static/media/Indian_Express_Logo_full.423f9accff26bf0c4b9f.png",
+    "static/media/1.jpg": "/static/media/1.018ac3b4c16b08a37f1a.jpg",
+    "static/media/2.jpg": "/static/media/2.4e70d6e2a81e7409703e.jpg",
+    "static/media/9.jpg": "/static/media/9.51c01a5e2a218d12cf29.jpg",
+    "static/media/4i.jpg": "/static/media/4i.b88928a98a00dfd4ec54.jpg",
+    "static/media/3i.jpg": "/static/media/3i.552269dd925530b81c55.jpg",
+    "static/media/8.jpg": "/static/media/8.f688d99983ad48ee88fe.jpg",
+    "static/media/10.jpg": "/static/media/10.e6da4df15dbb0eb92d9b.jpg",
+    "static/media/oasys.jpg": "/static/media/oasys.d21e4424ff4e3d9e81ef.jpg",
+    "static/media/brisk infosec.jpg": "/static/media/brisk infosec.3dfb7913962638b53b06.jpg",
+    "static/media/IBM_logo_PNG1.png": "/static/media/IBM_logo_PNG1.bcf02559ff89924bda4b.png",
+    "static/media/networkgeek-2.png": "/static/media/networkgeek-2.51e381865f053d7239cc.png",
+    "static/media/zoho.png": "/static/media/zoho.7c16cb2a1b084030d019.png",
+    "static/media/unity logo.png": "/static/media/unity logo.629a3c47aa86d217f3c4.png",
+    "static/media/Amazon_logo_PNG3.png": "/static/media/Amazon_logo_PNG3.ec9db5d6ea16484a6272.png",
+    "static/media/Bharat_Sanchar_Nigam_Limited-Logo.wine.png": "/static/media/Bharat_Sanchar_Nigam_Limited-Logo.wine.d03adc514aafa8430e7a.png",
+    "static/media/Impiger-technologies-logo-2.png": "/static/media/Impiger-technologies-logo-2.0ad37cd4cbe6b4c82fd8.png",
+    "static/media/techindia-logo.png": "/static/media/techindia-logo.1d8bdfb51356dc404560.png",
+    "static/media/oracle.png": "/static/media/oracle.d55d738e0e5bfa5956ee.png",
+    "static/media/Microsoft-Logo-PNG.png": "/static/media/Microsoft-Logo-PNG.80ea89c4aec6f01aea3f.png",
+    "static/media/HCL_Technologies-Logo.wine.png": "/static/media/HCL_Technologies-Logo.wine.1c91045da05db1fd327b.png",
+    "static/media/TESARK_Logo@3x.png": "/static/media/TESARK_Logo@3x.d1e81141a0408af8838c.png",
+    "static/media/sap.png": "/static/media/sap.5cf32810ae8f21737966.png",
+    "static/media/latentview.png": "/static/media/latentview.5b0bdb4ba035f30e948a.png",
+    "index.html": "/index.html",
+    "main.c717e443.css.map": "/static/css/main.c717e443.css.map",
+    "main.e0960c3d.js.map": "/static/js/main.e0960c3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c717e443.css",
+    "static/js/main.e0960c3d.js"
+  ]
+}
